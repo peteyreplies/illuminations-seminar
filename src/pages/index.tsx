@@ -54,7 +54,7 @@ const Home: NextPage = ({ data }: any) => {
             </p>
             <p>
               Hello! The Fall 2022 MIT Illuminations Seminar is a first-year,
-              3-unit seminar designed to introduce students to the basics of
+              3-unit advising seminar designed to introduce students to the basics of
               electronics and lighting through hands-on experimentation and
               integration with the context of a dynamic light installation at
               the MIT Welcome Center called{' '}
@@ -68,10 +68,10 @@ const Home: NextPage = ({ data }: any) => {
               to the MIT Welcome Center!
             </p>
             <p>
-              <span className={'dem'}>Course Instructor:</span> Chris Peterson{' '}
+              <span className={'dem'}>Lead Advisor:</span> Chris Peterson{' '}
               <a href="mailto:petey@mit.edu">petey@mit.edu</a>
               <br />
-              <span className={'dem'}>Lecturer:</span> Victor Hung{' '}
+              <span className={'dem'}>Lead Instructor:</span> Victor Hung{' '}
               <a href="mailto:vhung@mit.edu">vhung@mit.edu</a>
             </p>
             <h2>Office Hours</h2>
